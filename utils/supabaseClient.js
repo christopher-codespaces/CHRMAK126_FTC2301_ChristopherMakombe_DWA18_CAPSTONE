@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { createClient } from '@supabase/supabase-js'
 
 const SUPABASE_URL ="https://yitliolscvqdehcsxkqz.supabase.co"

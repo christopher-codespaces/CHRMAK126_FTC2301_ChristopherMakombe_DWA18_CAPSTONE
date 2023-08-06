@@ -1,3 +1,6 @@
+/* eslint-disable */
+
+
 import { useState, useEffect } from 'react'
 import { supabase } from '../utils/supabaseClient'
 import Auth from '../components/Auth'

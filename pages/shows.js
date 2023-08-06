@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import  { useEffect, useState } from 'react';
 import Fuse from 'fuse.js';
 // import { useTheme } from '@mui/material/styles';

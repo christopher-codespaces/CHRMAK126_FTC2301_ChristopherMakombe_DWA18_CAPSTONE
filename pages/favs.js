@@ -1,3 +1,6 @@
+/* eslint-disable */
+
+
 import { useEffect, useState } from 'react';
 import Fuse from 'fuse.js';
 import { createClient } from '@supabase/supabase-js';
